@@ -6,3 +6,6 @@ Site vitrine réalisé avec HTML, CSS et JavaScript.
 - HTML5
 - CSS3
 - JavaScript
+
+## Auteur
+Salomon Boco - Développeur Full-Stack
